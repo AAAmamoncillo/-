@@ -63,10 +63,10 @@ def main():
         return
     LOG.parent.mkdir(exist_ok=True)
     LOG.write_text(new, encoding="utf-8")
-    git("add", "chat-logs/conversation.md")
+    git("add", "-A")
     if git("diff", "--cached", "--quiet", check=False).returncode == 0:
         return
-    git("commit", "-m", "chat-log: update conversation record")
+    git("commit", "-m", "auto-sync: chat log and generated files")
     branch = git("rev-parse", "--abbrev-ref", "HEAD").stdout.strip()
     for d in (0, 2, 4, 8, 16):
         time.sleep(d)

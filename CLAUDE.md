@@ -11,4 +11,4 @@
 - 涉及未成年角色不做性化描写。
 
 ## 自动同步
-Stop 钩子（`.claude/hooks/sync_chat_log.py`）在每次回复后更新 `chat-logs/conversation.md` 并推送。
+Stop 钩子（`.claude/hooks/sync_chat_log.py`）在每次回复后更新 `chat-logs/conversation.md`，并把仓库里所有改动提交推送。仓库为私有。
