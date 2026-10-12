@@ -4,8 +4,8 @@ from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parent.parent
 OLD = Path('C:/Users/ZhuanZ（无密码）/Documents/Codex/2026-10-11/zhe')
-GH = OLD/'work/github-cli/portable/bin/gh.exe'
-ENV = dict(os.environ, GH_CONFIG_DIR=str(OLD/'work/github-auth'), GH_PROMPT_DISABLED='1')
+GH = ROOT/'work/github-cli/gh.exe'
+ENV = dict(os.environ, GH_CONFIG_DIR=str(ROOT/'work/github-auth'), GH_PROMPT_DISABLED='1')
 SID = '01a12a90-c2ce-7b93-8451-d6f344853364'
 SESSION = Path('C:/Users/ZhuanZ（无密码）/.codex/sessions/2026/10/11')/f'rollout-2026-10-11T18-44-54-{SID}.jsonl'
 REPO = 'AAAmamoncillo/-'
@@ -56,7 +56,9 @@ def snapshot():
     archive=OLD/'outputs/魔女不会死_聊天与原始资料_GitHub同步待上传备份.zip'
     for name in NAMES:
         path=BASE+'/user-files/'+name
+        retained=ROOT/'work/github-mirror'/path
         if (SOURCE/name).exists(): files[path]=(SOURCE/name).read_bytes()
+        elif retained.exists(): files[path]=retained.read_bytes()
         else:
             with zipfile.ZipFile(archive) as z: files[path]=z.read(path)
     for directory in (OLD/'outputs', ROOT/'outputs'):
@@ -83,6 +85,9 @@ def snapshot():
             index+=f'| [{rel}]({quote(rel,safe="/")}) | {len(raw)} | `{hashlib.sha256(raw).hexdigest()}` |\n'
     files[BASE+'/README.md']=index.encode('utf-8')
     files[BASE+'/tools/sync_github.py']=Path(__file__).read_bytes()
+    files[BASE+'/tools/启动GitHub备份.ps1']=(ROOT/'outputs/启动GitHub备份.ps1').read_bytes()
+    files[BASE+'/tools/启动GitHub备份.cmd']=(ROOT/'outputs/启动GitHub备份.cmd').read_bytes()
+    files[BASE+'/tools/使用说明.md']=('启动器已保存在本机 D:/1/ChatGPT/魔女不会死/outputs/启动GitHub备份.cmd。请从文件资源管理器双击启动；在 Codex 的受限终端中启动的后台进程可能随命令结束而退出。电脑重启后需再次启动。成功记录在 work/sync-state.json 和 work/sync-status.log；失败会每15秒重试。GitHub 登录凭据仅保存在本机 work/github-auth，未上传。\n').encode('utf-8')
     digest=hashlib.sha256(''.join(path+gitsha(raw) for path,raw in sorted(files.items())).encode()).hexdigest()
     return files,transcript,len(messages),digest
 
