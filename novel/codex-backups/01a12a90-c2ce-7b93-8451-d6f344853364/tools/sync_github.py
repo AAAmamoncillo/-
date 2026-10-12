@@ -58,7 +58,7 @@ def snapshot():
         text=re.sub(r'<environment_context>.*?</environment_context>|<external_codex_apps_open_page>.*?</external_codex_apps_open_page>|<in-app-browser-context.*?</in-app-browser-context>','',text,flags=re.S).strip()
         if not text: continue
         if p['role']=='user':
-            for match in re.finditer(r'[A-Za-z]:[/\\][^\r\n<>"\u0000]+?\.png',text):
+            for match in re.finditer(r'[A-Za-z]:[/\\][^\r\n<>"\u0000]+?\.(?:png|jpe?g)',text,re.IGNORECASE):
                 source=Path(match.group().strip())
                 if source.is_file(): images[source.name]=source
         messages.append(f"### {'🧑 用户' if p['role']=='user' else '🤖 Codex'} · {e.get('timestamp','')}\n\n{text}\n")
