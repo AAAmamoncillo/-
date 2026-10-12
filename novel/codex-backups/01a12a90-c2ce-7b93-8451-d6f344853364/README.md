@@ -15,6 +15,8 @@
 | [generated/第31章_撤药_紧凑排版.txt](generated/%E7%AC%AC31%E7%AB%A0_%E6%92%A4%E8%8D%AF_%E7%B4%A7%E5%87%91%E6%8E%92%E7%89%88.txt) | 27683 | `850ccd1ce2445167a9d7d75f872d73b845501dffc31c13c68a874263a5d8b109` |
 | [generated/第31章_撤药_续写稿.md](generated/%E7%AC%AC31%E7%AB%A0_%E6%92%A4%E8%8D%AF_%E7%BB%AD%E5%86%99%E7%A8%BF.md) | 28271 | `2ca74da0bfb1b1b8ddc142c6bfad1a31a3d315ac72431110d1b65016f277c62e` |
 | [generated/第32章_夜里的人.txt](generated/%E7%AC%AC32%E7%AB%A0_%E5%A4%9C%E9%87%8C%E7%9A%84%E4%BA%BA.txt) | 27016 | `e63380c17671408ff4e40971dec259212423cca436e05623e67ce96669899985` |
+| [generated/第32章_夜里的人_可复制版.html](generated/%E7%AC%AC32%E7%AB%A0_%E5%A4%9C%E9%87%8C%E7%9A%84%E4%BA%BA_%E5%8F%AF%E5%A4%8D%E5%88%B6%E7%89%88.html) | 55183 | `38889489f327519529d93e246d8255b0ec771fb08215385bc08b49ca35137715` |
+| [generated/第32章_夜里的人_可复制版.md](generated/%E7%AC%AC32%E7%AB%A0_%E5%A4%9C%E9%87%8C%E7%9A%84%E4%BA%BA_%E5%8F%AF%E5%A4%8D%E5%88%B6%E7%89%88.md) | 27018 | `b5b0fffb07ff1ac654a277bff62d50064a2c90b9170d8e99edb51d4cbd2a269f` |
 | [generated/第32章_夜里的人_续写稿.md](generated/%E7%AC%AC32%E7%AB%A0_%E5%A4%9C%E9%87%8C%E7%9A%84%E4%BA%BA_%E7%BB%AD%E5%86%99%E7%A8%BF.md) | 26723 | `a32868a733cba8e77b0b10f9c9fabb39bdc908d4e8e72725a1c2871cf8544da2` |
 | [generated/魔女不会死_第15章_我答应过你_莱昂视角精修稿.docx](generated/%E9%AD%94%E5%A5%B3%E4%B8%8D%E4%BC%9A%E6%AD%BB_%E7%AC%AC15%E7%AB%A0_%E6%88%91%E7%AD%94%E5%BA%94%E8%BF%87%E4%BD%A0_%E8%8E%B1%E6%98%82%E8%A7%86%E8%A7%92%E7%B2%BE%E4%BF%AE%E7%A8%BF.docx) | 44216 | `f2af83f9a67ca714ffb9956a5d16ad2d12e1361b2b3ff46b3ac5bf68b4ac3b09` |
 | [images/codex-clipboard-8e69813b-ab9c-44ae-b7bc-5a11db109ed7.png](images/codex-clipboard-8e69813b-ab9c-44ae-b7bc-5a11db109ed7.png) | 190404 | `53443de6affdcaa37c93b7d5cc788ac46a1c5db3cc9edf96f2940ad3e8081612` |

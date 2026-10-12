@@ -75,7 +75,7 @@ def snapshot():
     for directory in (OLD/'outputs', ROOT/'outputs'):
         if not directory.exists(): continue
         for source in directory.iterdir():
-            if source.suffix.lower() not in ('.docx','.md','.pdf','.txt'): continue
+            if source.suffix.lower() not in ('.docx','.md','.pdf','.txt','.html'): continue
             files[BASE+'/generated/'+source.name]=source.read_bytes()
             transcript=transcript.replace(str(source),BASE+'/generated/'+source.name).replace(str(source).replace('\\','/'),BASE+'/generated/'+source.name)
     for name,source in images.items():
