@@ -64,6 +64,13 @@ def snapshot():
         messages.append(f"### {'🧑 用户' if p['role']=='user' else '🤖 Codex'} · {e.get('timestamp','')}\n\n{text}\n")
     transcript='# Codex 小说协作聊天记录\n\n本聊天可见的用户消息、助手回复与进度说明；不包含系统提示、内部推理、工具原始日志或登录凭据。时间戳为 UTC。\n\n'+'\n'.join(messages)
     files={}
+    # Author-requested canon edits are included alongside the conversation backups.
+    saved_canon=json.loads(STATE.read_text(encoding='utf-8')).get('canon_files',{}) if STATE.exists() else {}
+    for name in ('novel/共识设定记录.md','novel/attachments/01_当前设定集.md'):
+        source=ROOT/name
+        if source.exists():
+            raw=source.read_bytes()
+            if saved_canon.get(name)!=gitsha(raw): files[name]=raw
     archive=OLD/'outputs/魔女不会死_聊天与原始资料_GitHub同步待上传备份.zip'
     for name in NAMES:
         path=BASE+'/user-files/'+name
@@ -144,7 +151,9 @@ def sync():
         actual=api('git/ref/heads/'+quote(BRANCH,safe=''))['object']['sha']
         if actual!=commit: raise RuntimeError('Branch advanced during verification; retry needed')
     else: commit=head
-    STATE.write_text(json.dumps({'digest':digest,'commit':commit,'messages':count,'files':len(files),'updated':time.strftime('%Y-%m-%d %H:%M:%S')},ensure_ascii=False,indent=2),encoding='utf-8')
+    canon_files=dict(state.get('canon_files',{}))
+    canon_files.update({path:gitsha(raw) for path,raw in files.items() if path in ('novel/共识设定记录.md','novel/attachments/01_当前设定集.md')})
+    STATE.write_text(json.dumps({'digest':digest,'commit':commit,'messages':count,'files':len(files),'canon_files':canon_files,'updated':time.strftime('%Y-%m-%d %H:%M:%S')},ensure_ascii=False,indent=2),encoding='utf-8')
     log(f'OK commit={commit} messages={count} files={len(files)} verified')
 
 def main():
