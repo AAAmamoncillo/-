@@ -28,9 +28,20 @@ def api(endpoint, data=None, method='POST'):
         request=ROOT/'work/api-request.json'
         request.write_text(json.dumps(data,ensure_ascii=False),encoding='utf-8')
         args+=['--method',method,'--input',str(request)]
-    r=subprocess.run(args,env=ENV,stdout=subprocess.PIPE,stderr=subprocess.PIPE,encoding='utf-8',timeout=180,creationflags=0x08000000)
-    if r.returncode: raise RuntimeError(r.stderr.strip()[:1000])
-    return json.loads(r.stdout)
+    for attempt in range(3):
+        r=subprocess.run(args,env=ENV,stdout=subprocess.PIPE,stderr=subprocess.PIPE,encoding='utf-8',timeout=180,creationflags=0x08000000)
+        if not r.returncode:
+            try:
+                return json.loads(r.stdout)
+            except json.JSONDecodeError:
+                error='GitHub returned an incomplete JSON response'
+        else:
+            error=r.stderr.strip()[:1000]
+            if not any(term in error.lower() for term in ('timeout','unexpected end','eof','connection reset','502','503','504')):
+                raise RuntimeError(error)
+        if attempt < 2:
+            time.sleep(1 + attempt)
+    raise RuntimeError(error)
 
 def gitsha(raw):
     return hashlib.sha1(b'blob '+str(len(raw)).encode()+b'\0'+raw).hexdigest()
