@@ -11,9 +11,11 @@
 | [generated/GitHub阅读与接续确认.md](generated/GitHub%E9%98%85%E8%AF%BB%E4%B8%8E%E6%8E%A5%E7%BB%AD%E7%A1%AE%E8%AE%A4.md) | 9374 | `e7e86aec898d1cfdab5e496f31c447f938a72eee1cd8117a1d91de68766a777f` |
 | [generated/第15章_我答应过你_精修正文.md](generated/%E7%AC%AC15%E7%AB%A0_%E6%88%91%E7%AD%94%E5%BA%94%E8%BF%87%E4%BD%A0_%E7%B2%BE%E4%BF%AE%E6%AD%A3%E6%96%87.md) | 16639 | `407e514210e9d5861cf13417df80d73ea60ddede6d0abe2f042cc1737b41ec37` |
 | [generated/第28章_公开识图_补写稿.md](generated/%E7%AC%AC28%E7%AB%A0_%E5%85%AC%E5%BC%80%E8%AF%86%E5%9B%BE_%E8%A1%A5%E5%86%99%E7%A8%BF.md) | 31391 | `25710c02d2a9734befb1a00caa18c610918b201ec5417409c4ab8ccf40384c76` |
-| [generated/第31章_撤药_紧凑排版.md](generated/%E7%AC%AC31%E7%AB%A0_%E6%92%A4%E8%8D%AF_%E7%B4%A7%E5%87%91%E6%8E%92%E7%89%88.md) | 27685 | `bc1084690c2847ea686d737120b811044842c2b3d8c907357182e88698be4c2a` |
-| [generated/第31章_撤药_紧凑排版.txt](generated/%E7%AC%AC31%E7%AB%A0_%E6%92%A4%E8%8D%AF_%E7%B4%A7%E5%87%91%E6%8E%92%E7%89%88.txt) | 27683 | `98e729fe2274774c987f6fb6225d507593aa3bd95abb1b54c0afd8f0c45739d5` |
-| [generated/第31章_撤药_续写稿.md](generated/%E7%AC%AC31%E7%AB%A0_%E6%92%A4%E8%8D%AF_%E7%BB%AD%E5%86%99%E7%A8%BF.md) | 27660 | `ee9b10c6a4589be8dee8c6e7699ef5d67ca87be0caa67bdb518911bc878ad9ea` |
+| [generated/第31章_撤药_紧凑排版.md](generated/%E7%AC%AC31%E7%AB%A0_%E6%92%A4%E8%8D%AF_%E7%B4%A7%E5%87%91%E6%8E%92%E7%89%88.md) | 27685 | `096b6e4a79b398315e74e361b3f202c04a3e2d3787a4eb51bb39603bb47dc253` |
+| [generated/第31章_撤药_紧凑排版.txt](generated/%E7%AC%AC31%E7%AB%A0_%E6%92%A4%E8%8D%AF_%E7%B4%A7%E5%87%91%E6%8E%92%E7%89%88.txt) | 27683 | `850ccd1ce2445167a9d7d75f872d73b845501dffc31c13c68a874263a5d8b109` |
+| [generated/第31章_撤药_续写稿.md](generated/%E7%AC%AC31%E7%AB%A0_%E6%92%A4%E8%8D%AF_%E7%BB%AD%E5%86%99%E7%A8%BF.md) | 28271 | `2ca74da0bfb1b1b8ddc142c6bfad1a31a3d315ac72431110d1b65016f277c62e` |
+| [generated/第32章_夜里的人.txt](generated/%E7%AC%AC32%E7%AB%A0_%E5%A4%9C%E9%87%8C%E7%9A%84%E4%BA%BA.txt) | 27016 | `e63380c17671408ff4e40971dec259212423cca436e05623e67ce96669899985` |
+| [generated/第32章_夜里的人_续写稿.md](generated/%E7%AC%AC32%E7%AB%A0_%E5%A4%9C%E9%87%8C%E7%9A%84%E4%BA%BA_%E7%BB%AD%E5%86%99%E7%A8%BF.md) | 26723 | `a32868a733cba8e77b0b10f9c9fabb39bdc908d4e8e72725a1c2871cf8544da2` |
 | [generated/魔女不会死_第15章_我答应过你_莱昂视角精修稿.docx](generated/%E9%AD%94%E5%A5%B3%E4%B8%8D%E4%BC%9A%E6%AD%BB_%E7%AC%AC15%E7%AB%A0_%E6%88%91%E7%AD%94%E5%BA%94%E8%BF%87%E4%BD%A0_%E8%8E%B1%E6%98%82%E8%A7%86%E8%A7%92%E7%B2%BE%E4%BF%AE%E7%A8%BF.docx) | 44216 | `f2af83f9a67ca714ffb9956a5d16ad2d12e1361b2b3ff46b3ac5bf68b4ac3b09` |
 | [images/codex-clipboard-8e69813b-ab9c-44ae-b7bc-5a11db109ed7.png](images/codex-clipboard-8e69813b-ab9c-44ae-b7bc-5a11db109ed7.png) | 190404 | `53443de6affdcaa37c93b7d5cc788ac46a1c5db3cc9edf96f2940ad3e8081612` |
 | [images/codex-clipboard-b4b5347b-522a-479c-9734-a2feb2823b76.png](images/codex-clipboard-b4b5347b-522a-479c-9734-a2feb2823b76.png) | 75894 | `1002b7dd1867e08a75e82a00da20a07eba131c14f4da649758ebfe2174ee6e76` |
