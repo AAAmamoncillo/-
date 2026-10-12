@@ -9,7 +9,7 @@
 | 文件 | 字节数 | SHA256 |
 | --- | ---: | --- |
 | [generated/GitHub阅读与接续确认.md](generated/GitHub%E9%98%85%E8%AF%BB%E4%B8%8E%E6%8E%A5%E7%BB%AD%E7%A1%AE%E8%AE%A4.md) | 9374 | `e7e86aec898d1cfdab5e496f31c447f938a72eee1cd8117a1d91de68766a777f` |
-| [generated/写作素材记录_骑士誓言与遗忘的痛苦.md](generated/%E5%86%99%E4%BD%9C%E7%B4%A0%E6%9D%90%E8%AE%B0%E5%BD%95_%E9%AA%91%E5%A3%AB%E8%AA%93%E8%A8%80%E4%B8%8E%E9%81%97%E5%BF%98%E7%9A%84%E7%97%9B%E8%8B%A6.md) | 4031 | `2304c9e8e42c8b3b4a49589282c2c13e9d4058555038207576fcbf0dc2e821e4` |
+| [generated/写作素材记录_骑士誓言与遗忘的痛苦.md](generated/%E5%86%99%E4%BD%9C%E7%B4%A0%E6%9D%90%E8%AE%B0%E5%BD%95_%E9%AA%91%E5%A3%AB%E8%AA%93%E8%A8%80%E4%B8%8E%E9%81%97%E5%BF%98%E7%9A%84%E7%97%9B%E8%8B%A6.md) | 5092 | `dab6b44996fec734d94c30a6f17366e5927710b46d032553144583bbf3cad896` |
 | [generated/第15章_我答应过你_精修正文.md](generated/%E7%AC%AC15%E7%AB%A0_%E6%88%91%E7%AD%94%E5%BA%94%E8%BF%87%E4%BD%A0_%E7%B2%BE%E4%BF%AE%E6%AD%A3%E6%96%87.md) | 16639 | `407e514210e9d5861cf13417df80d73ea60ddede6d0abe2f042cc1737b41ec37` |
 | [generated/第28章_公开识图_补写稿.md](generated/%E7%AC%AC28%E7%AB%A0_%E5%85%AC%E5%BC%80%E8%AF%86%E5%9B%BE_%E8%A1%A5%E5%86%99%E7%A8%BF.md) | 31391 | `25710c02d2a9734befb1a00caa18c610918b201ec5417409c4ab8ccf40384c76` |
 | [generated/第31章_撤药_紧凑排版.md](generated/%E7%AC%AC31%E7%AB%A0_%E6%92%A4%E8%8D%AF_%E7%B4%A7%E5%87%91%E6%8E%92%E7%89%88.md) | 27685 | `096b6e4a79b398315e74e361b3f202c04a3e2d3787a4eb51bb39603bb47dc253` |
