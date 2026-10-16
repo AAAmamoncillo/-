@@ -1,6 +1,7 @@
 import argparse, base64, hashlib, json, os, re, subprocess, time, zipfile
 from pathlib import Path
 from urllib.parse import quote
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 ROOT = Path(__file__).resolve().parent.parent
 OLD = Path('C:/Users/ZhuanZ（无密码）/Documents/Codex/2026-10-11/zhe')
@@ -25,11 +26,9 @@ def log(message):
 def api(endpoint, data=None, method='POST'):
     args=[str(GH),'api',PREFIX+endpoint]
     if data is not None:
-        request=ROOT/'work/api-request.json'
-        request.write_text(json.dumps(data,ensure_ascii=False),encoding='utf-8')
-        args+=['--method',method,'--input',str(request)]
+        args+=['--method',method,'--input','-']
     for attempt in range(3):
-        r=subprocess.run(args,env=ENV,stdout=subprocess.PIPE,stderr=subprocess.PIPE,encoding='utf-8',timeout=180,creationflags=0x08000000)
+        r=subprocess.run(args,env=ENV,input=json.dumps(data,ensure_ascii=False) if data is not None else None,stdout=subprocess.PIPE,stderr=subprocess.PIPE,encoding='utf-8',timeout=180,creationflags=0x08000000)
         if not r.returncode:
             try:
                 return json.loads(r.stdout)
@@ -48,7 +47,10 @@ def gitsha(raw):
 
 def snapshot():
     messages=[]; images={}
-    for line in SESSION.read_text(encoding='utf-8').splitlines():
+    sessions=sorted(SESSION.parents[3].rglob('*'+SID+'*.jsonl'))
+    if not sessions: raise RuntimeError('No conversation segments found')
+    lines=(line for session in sessions for line in session.read_text(encoding='utf-8').splitlines())
+    for line in lines:
         try: e=json.loads(line)
         except ValueError: continue
         p=e.get('payload',{})
@@ -85,6 +87,12 @@ def snapshot():
             if source.suffix.lower() not in ('.docx','.md','.pdf','.txt','.html'): continue
             files[BASE+'/generated/'+source.name]=source.read_bytes()
             transcript=transcript.replace(str(source),BASE+'/generated/'+source.name).replace(str(source).replace('\\','/'),BASE+'/generated/'+source.name)
+    # Back up project notes and persistent references, including new supplement files.
+    for source in (ROOT/'novel').rglob('*'):
+        if not source.is_file() or source.suffix.lower() not in ('.md','.txt','.docx','.pdf','.jpg','.jpeg','.png','.webp','.svg'): continue
+        relative=source.relative_to(ROOT).as_posix()
+        files[BASE+'/project/'+relative]=source.read_bytes()
+    files[BASE+'/project/AGENTS.md']=(ROOT/'AGENTS.md').read_bytes()
     for name,source in images.items():
         files[BASE+'/images/'+name]=source.read_bytes()
         transcript=transcript.replace(str(source),BASE+'/images/'+name).replace(str(source).replace('\\','/'),BASE+'/images/'+name)
@@ -132,15 +140,24 @@ def sync():
     for path,raw in files.items():
         target=mirror/path; target.parent.mkdir(parents=True,exist_ok=True); target.write_bytes(raw)
     known={e['sha'] for e in remote.values() if e['type']=='blob'}
-    entries=[]
+    entries=[]; pending={}
     for path,raw in files.items():
         sha=gitsha(raw)
         if path in remote and remote[path]['sha']==sha: continue
         if sha not in known:
-            result=api('git/blobs',{'content':base64.b64encode(raw).decode(),'encoding':'base64'})
-            if result['sha']!=sha: raise RuntimeError('Blob integrity mismatch: '+path)
+            pending[sha]=raw
             known.add(sha)
         entries.append({'path':path,'mode':'100644','type':'blob','sha':sha})
+    log(f'Prepared messages={count} files={len(files)} changed={len(entries)} unique_uploads={len(pending)}')
+    def upload(item):
+        sha,raw=item
+        result=api('git/blobs',{'content':base64.b64encode(raw).decode(),'encoding':'base64'})
+        if result['sha']!=sha: raise RuntimeError('Blob integrity mismatch: '+sha)
+    with ThreadPoolExecutor(max_workers=4) as pool:
+        futures=[pool.submit(upload,item) for item in pending.items()]
+        for done,future in enumerate(as_completed(futures),1):
+            future.result()
+            if done%20==0 or done==len(futures): log(f'Uploaded {done}/{len(futures)}')
     if entries:
         newtree=api('git/trees',{'base_tree':tree,'tree':entries})['sha']
         commit=api('git/commits',{'message':f'备份 Codex 小说协作：{count}条消息与文档','tree':newtree,'parents':[head]})['sha']
