@@ -36,7 +36,7 @@ def api(endpoint, data=None, method='POST'):
                 error='GitHub returned an incomplete JSON response'
         else:
             error=r.stderr.strip()[:1000]
-            if not any(term in error.lower() for term in ('timeout','unexpected end','eof','connection reset','502','503','504')):
+            if not any(term in error.lower() for term in ('timeout','unexpected end','eof','connection reset','stream error','tls handshake','502','503','504')):
                 raise RuntimeError(error)
         if attempt < 2:
             time.sleep(1 + attempt)
@@ -126,8 +126,13 @@ def sync():
     tree=api('git/commits/'+head)['tree']['sha']
     remote={e['path']:e for e in api('git/trees/'+tree+'?recursive=1')['tree']}
     entry=remote['chat-logs/conversation.md']
-    oldblob=api('git/blobs/'+entry['sha'])
-    old=base64.b64decode(oldblob['content']).decode('utf-8')
+    cached=ROOT/'work/github-mirror/chat-logs/conversation.md'
+    cached_raw=cached.read_bytes() if cached.exists() else b''
+    if gitsha(cached_raw)==entry['sha']:
+        old=cached_raw.decode('utf-8')
+    else:
+        oldblob=api('git/blobs/'+entry['sha'])
+        old=base64.b64decode(oldblob['content']).decode('utf-8')
     start='<!-- session:codex-'+SID+' -->'; end='<!-- end:codex-'+SID+' -->'
     section=start+'\n## Codex 小说协作 '+SID+'\n\n'+transcript+'\n'+end+'\n'
     if start in old:
