@@ -230,6 +230,7 @@
 | [project/novel/第一卷重构总纲_v1_2026-10-20.md](project/novel/%E7%AC%AC%E4%B8%80%E5%8D%B7%E9%87%8D%E6%9E%84%E6%80%BB%E7%BA%B2_v1_2026-10-20.md) | 37198 | `3674cdb683aad8b497b6e7654ad389ec46403fa294362f8f9679598c99dc3c7f` |
 | [project/novel/第一章作者修订_文风对照_2026-10-21.md](project/novel/%E7%AC%AC%E4%B8%80%E7%AB%A0%E4%BD%9C%E8%80%85%E4%BF%AE%E8%AE%A2_%E6%96%87%E9%A3%8E%E5%AF%B9%E7%85%A7_2026-10-21.md) | 2649 | `f84289e8ac4b7256d9f1f717de38b07b78f7df3a3b22aaf478fc87a1b1ab5e49` |
 | [project/novel/续写简明备忘.md](project/novel/%E7%BB%AD%E5%86%99%E7%AE%80%E6%98%8E%E5%A4%87%E5%BF%98.md) | 2451 | `f1c1ec69bd2ca57574af2a8d0207804620f5d9e08303cb77d725df8eda968991` |
+| [project/novel/角色修订_2026-10-22.md](project/novel/%E8%A7%92%E8%89%B2%E4%BF%AE%E8%AE%A2_2026-10-22.md) | 1225 | `5c09e5c8e699af1e0ce3c8bb6a553b58117586f0dfc142bcea383a7d12dee4e4` |
 | [user-files/00_读我_项目入口与阅读顺序.md](user-files/00_%E8%AF%BB%E6%88%91_%E9%A1%B9%E7%9B%AE%E5%85%A5%E5%8F%A3%E4%B8%8E%E9%98%85%E8%AF%BB%E9%A1%BA%E5%BA%8F.md) | 6286 | `18c6bc1ad51fdc1fc3c690597c5920a7c63aa05ac8807e8a9cb0ed1838435693` |
 | [user-files/01_当前设定集.md](user-files/01_%E5%BD%93%E5%89%8D%E8%AE%BE%E5%AE%9A%E9%9B%86.md) | 21357 | `06d5e74bc47d657378ee60d297f64060a36562ac35e9ee9927ca5a5d2805e667` |
 | [user-files/02_现行20章概要与续写起点.md](user-files/02_%E7%8E%B0%E8%A1%8C20%E7%AB%A0%E6%A6%82%E8%A6%81%E4%B8%8E%E7%BB%AD%E5%86%99%E8%B5%B7%E7%82%B9.md) | 7499 | `36712929811027d26b0f09604e3cde38c92c3e99feb291c6bbdde3288738ee63` |
