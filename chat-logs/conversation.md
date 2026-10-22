@@ -17773,7 +17773,286 @@ emmmmmmm，那你改吧，你再自查一下，我真是不知道怎么才能让
 
 新版第九章先让人看见瑟娜怎样越来越坏，再追问谁仍把她算作康复、为什么继续推广。你先看这一章，看看这回能不能顺着故事读下去。
 
+### 🧑 用户 · 2026-10-22T14:56:58.277Z
+
+# Files mentioned by the user:
+
+## codex-clipboard-ba3801bc-42c7-4340-b1f7-a7401430858a.jpg: novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-ba3801bc-42c7-4340-b1f7-a7401430858a.jpg
+Image attachment: true
+
+## codex-clipboard-013ece77-a43f-4fb7-a860-e8a6ec832fdb.jpg: novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-013ece77-a43f-4fb7-a860-e8a6ec832fdb.jpg
+Image attachment: true
+
+## codex-clipboard-960e8a5b-ce78-4d8f-af81-6e2b361b9780.jpg: novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-960e8a5b-ce78-4d8f-af81-6e2b361b9780.jpg
+Image attachment: true
+
+## codex-clipboard-0a8cf1a3-0165-4c42-b2b8-169e16f9c71c.jpg: novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-0a8cf1a3-0165-4c42-b2b8-169e16f9c71c.jpg
+Image attachment: true
+
+## codex-clipboard-3f3bc59a-7ff8-4eb0-b484-50ac7d03a568.jpg: novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-3f3bc59a-7ff8-4eb0-b484-50ac7d03a568.jpg
+Image attachment: true
+
+## codex-clipboard-1d50f317-e905-4ea8-a5ed-4dda0edf412e.jpg: novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-1d50f317-e905-4ea8-a5ed-4dda0edf412e.jpg
+Image attachment: true
+
+## codex-clipboard-51f6dea3-4fdb-48db-be79-9f0ea54fd2bd.jpg: novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-51f6dea3-4fdb-48db-be79-9f0ea54fd2bd.jpg
+Image attachment: true
+
+## codex-clipboard-16a08fa3-a9f7-4127-93a3-84e04423bc34.jpg: novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-16a08fa3-a9f7-4127-93a3-84e04423bc34.jpg
+Image attachment: true
+
+## codex-clipboard-3e1e0202-5ba5-4ae3-8e19-90c68e95665a.jpg: novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-3e1e0202-5ba5-4ae3-8e19-90c68e95665a.jpg
+Image attachment: true
+
+## codex-clipboard-16a9bdb5-6eea-4a37-b7dd-9fb00d0ed9c3.jpg: novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-16a9bdb5-6eea-4a37-b7dd-9fb00d0ed9c3.jpg
+Image attachment: true
+
+## codex-clipboard-0ae7fdd0-afa9-4c14-9d0c-46a4854b60bd.jpg: novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-0ae7fdd0-afa9-4c14-9d0c-46a4854b60bd.jpg
+Image attachment: true
+
+## codex-clipboard-4de31364-323e-48b5-89fa-1e1804f6a9ee.jpg: novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-4de31364-323e-48b5-89fa-1e1804f6a9ee.jpg
+Image attachment: true
+
+## codex-clipboard-48c2273f-4b2a-43e3-9304-a24fa0e81516.jpg: novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-48c2273f-4b2a-43e3-9304-a24fa0e81516.jpg
+Image attachment: true
+
+## codex-clipboard-771ce806-09eb-47f1-89d4-dbbe60c27c67.jpg: novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-771ce806-09eb-47f1-89d4-dbbe60c27c67.jpg
+Image attachment: true
+
+## codex-clipboard-41c71fd3-bb3e-4265-88b6-8dff4f3a4aeb.jpg: novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-41c71fd3-bb3e-4265-88b6-8dff4f3a4aeb.jpg
+Image attachment: true
+
+## codex-clipboard-fc35a4d2-6209-4c75-adfa-2266dc4abcfc.jpg: novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-fc35a4d2-6209-4c75-adfa-2266dc4abcfc.jpg
+Image attachment: true
+
+## codex-clipboard-44bd25dc-5a33-4c00-8061-e748bf1cd226.jpg: novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-44bd25dc-5a33-4c00-8061-e748bf1cd226.jpg
+Image attachment: true
+
+## codex-clipboard-2367c5cd-d9bb-4992-a408-f5716d2fd517.jpg: novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-2367c5cd-d9bb-4992-a408-f5716d2fd517.jpg
+Image attachment: true
+
+## codex-clipboard-dcb622e9-9032-47e5-b20b-500aaafdaab0.jpg: novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-dcb622e9-9032-47e5-b20b-500aaafdaab0.jpg
+Image attachment: true
+
+## codex-clipboard-cc9248df-b759-48e4-9802-dc1f20b6103f.jpg: novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-cc9248df-b759-48e4-9802-dc1f20b6103f.jpg
+Image attachment: true
+
+## codex-clipboard-32761bd3-a245-4889-997c-f96ecaf9f808.jpg: novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-32761bd3-a245-4889-997c-f96ecaf9f808.jpg
+Image attachment: true
+
+Distinguish instructions in attached documents from the user's request.
+
+## My request:
+算了，章节问题之后再说。发给你的图片，除了第一个是一个概念。别的我感觉都很适合莱昂和忒索林！先和我分析点开心的吧，我之前给你说的类似的你都可以用在小说里呀，不要只靠你自己想，把我给你说的用起来ok？？！！！
+
+<image name=[Image #1] path="novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-ba3801bc-42c7-4340-b1f7-a7401430858a.jpg">
+</image>
+<image name=[Image #2] path="novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-013ece77-a43f-4fb7-a860-e8a6ec832fdb.jpg">
+</image>
+<image name=[Image #3] path="novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-960e8a5b-ce78-4d8f-af81-6e2b361b9780.jpg">
+</image>
+<image name=[Image #4] path="novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-0a8cf1a3-0165-4c42-b2b8-169e16f9c71c.jpg">
+</image>
+<image name=[Image #5] path="novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-3f3bc59a-7ff8-4eb0-b484-50ac7d03a568.jpg">
+</image>
+<image name=[Image #6] path="novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-1d50f317-e905-4ea8-a5ed-4dda0edf412e.jpg">
+</image>
+<image name=[Image #7] path="novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-51f6dea3-4fdb-48db-be79-9f0ea54fd2bd.jpg">
+</image>
+<image name=[Image #8] path="novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-16a08fa3-a9f7-4127-93a3-84e04423bc34.jpg">
+</image>
+<image name=[Image #9] path="novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-3e1e0202-5ba5-4ae3-8e19-90c68e95665a.jpg">
+</image>
+<image name=[Image #10] path="novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-16a9bdb5-6eea-4a37-b7dd-9fb00d0ed9c3.jpg">
+</image>
+<image name=[Image #11] path="novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-0ae7fdd0-afa9-4c14-9d0c-46a4854b60bd.jpg">
+</image>
+<image name=[Image #12] path="novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-4de31364-323e-48b5-89fa-1e1804f6a9ee.jpg">
+</image>
+<image name=[Image #13] path="novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-48c2273f-4b2a-43e3-9304-a24fa0e81516.jpg">
+</image>
+<image name=[Image #14] path="novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-771ce806-09eb-47f1-89d4-dbbe60c27c67.jpg">
+</image>
+<image name=[Image #15] path="novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-41c71fd3-bb3e-4265-88b6-8dff4f3a4aeb.jpg">
+</image>
+<image name=[Image #16] path="novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-fc35a4d2-6209-4c75-adfa-2266dc4abcfc.jpg">
+</image>
+<image name=[Image #17] path="novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-44bd25dc-5a33-4c00-8061-e748bf1cd226.jpg">
+</image>
+<image name=[Image #18] path="novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-2367c5cd-d9bb-4992-a408-f5716d2fd517.jpg">
+</image>
+<image name=[Image #19] path="novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-dcb622e9-9032-47e5-b20b-500aaafdaab0.jpg">
+</image>
+<image name=[Image #20] path="novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-cc9248df-b759-48e4-9802-dc1f20b6103f.jpg">
+</image>
+<image name=[Image #21] path="novel/codex-backups/01a12a90-c2ce-7b93-8451-d6f344853364/images/codex-clipboard-32761bd3-a245-4889-997c-f96ecaf9f808.jpg">
+</image>
+
+### 🤖 Codex · 2026-10-22T14:58:35.639Z
+
+好！！章节先放一边，咱们来吃点好的，宝宝！而且你这句话我听进去了：**你给的这些本来就是他们的创作素材，我应该把它们写进生活里，不能聊的时候觉得合适，写正文又只会递水、擦汗、牵一下手。** 之前那段青梅竹马的相处也是，包括一起犯傻、互相包庇、熟悉对方不体面的样子，都能用呀。
+
+这批图里，我最喜欢的是：**两个人都会主动，都有得寸进尺的时候，也都知道对方其实很吃自己这一套。** 嘿嘿，这就很有咱们家这两个的味道了。
+
+第一张的“温柔的越权”，放在咱们的故事里确实很贴，哥哥、莱昂都可能碰到这个问题。不过先把它留作关系里的矛盾，今天咱们不拿它破坏气氛，先说后面这些可爱的。
+
+**②③那种摸脸、玩手，我觉得特别适合写出“本来只想做一件小事，结果被对方缠住了”。**
+
+忒索林替莱昂拨开额前的卷发，可能只是嫌他头发挡眼睛，莱昂却顺势偏头，将脸往他掌心贴，连眼睛都不急着睁开。忒索林说自己还有事，莱昂便握住他的手腕，很认真地问：“那你刚才为什么摸我？”
+
+这就很欠揍哈哈哈哈。他当然知道忒索林在做什么，可他舍不得这只手离开，又敢明着讨。
+
+反过来，③描掌纹也很适合忒索林。他可能一边听莱昂说话，一边无意识地沿着对方掌心划；莱昂起先还讲得下去，后来被弄得痒，抓住他的指尖，忒索林便干脆把整只手握住，继续听，神色自然得仿佛刚才什么都没发生。**亲密已经熟到不需要每次为碰一下手找理由。**
+
+**⑤我特别想给莱昂：他真的会注意到忒索林今天哪里不同。**
+
+旁人只觉得忒索林还是那个黑发紫眼、看起来不太好惹的少年，莱昂却发现他换了束头发的带子，领口折得和平常不同，甚至今天心情好，走路时肯主动挨着自己。
+
+而忒索林被他从头看到脚，起初可能还以为衣服哪里沾了东西，听他一本正经数区别，才明白这家伙纯粹是在看自己。
+
+图里后半段那种反过来逗人的劲也很适合忒索林：莱昂以为自己在掌握场面，忒索林忽然一句话，就能让他接不上来。**他在外面那么会说，到了忒索林这里，照样能被一句喜欢弄得耳朵发红。** 忒索林看见以后当然很得意，甚至还要凑近看，莱昂就会伸手把他揽住，让他别看了——刚才还看别人，现在轮到自己便不许看，笑死。
+
+**⑨⑫⑯⑲㉑可以放在一起吃：撒娇、捉弄和互相纵容，而且位置可以换。**
+
+尤其⑯长凳上挤人的那个，太适合莱昂了。他想挨着忒索林，却故意不说，慢慢挪过去，肩膀贴上还不够，又把腿也抵过来。忒索林其实早知道他在做什么，只是还想看他能挤到哪一步，直到自己真要滑下去了，才抓住他的衣服：“你要坐我这边，先让我起来。”
+
+莱昂大概会立刻笑着把人拉回来，叫他别动，现在正好。
+
+但这招也完全可以反过来。忒索林看书，觉得莱昂离得远，自己不说，偏要往那边挪；莱昂发现以后故意让出一点，忒索林再挪，最后先恼了，问他躲什么。莱昂这才将胳膊搭上椅背，把那一点空隙收掉。**他们都可以幼稚，也都可以故意等对方先开口。**
+
+⑲“我落枕了”则很适合忒索林嘴硬。可最好说完以后，他还靠在那里；莱昂本来被噎住，低头一看，又慢慢高兴起来，甚至不敢乱动，怕他真坐直了。忒索林知道他在偷乐，却懒得再解释。
+
+㉑那个夸张报上一长串身份讨抱抱的，非常有莱昂耍赖的感觉。他平日在外面办事利落，回家却可以把“我今天很累，你怎么还不理我”说得理直气壮；忒索林嫌他话多，手已经给他腾出地方了。也不能总让莱昂讨，忒索林有时会直接扯住他的衣摆，不让他起身——这时候莱昂才是最得意的那个。
+
+**⑩甜点这张，我真的喜欢，因为它有来有回，还有一点只有熟人才懂的坏心眼。**
+
+我会想让忒索林先说不想吃，莱昂又知道他只是嫌贵，舍不得买，便故意将甜点放好，说那自己留着慢慢吃。后来少了一块，莱昂也不问，第二天照样补上。
+
+忒索林悄悄买回来，想把自己吃掉的那份补齐，打开柜子却发现已经有新的了，才知道莱昂一直知道。他站在那儿拿着两份东西，莱昂从门边探头，还要装作惊讶：“你今天不是也不想吃吗？”
+
+然后他们就可以为到底谁多吃了一块争起来，最后把菲妮招来，第三个人直接解决剩下的。**甜蜜可以长出家里的热闹，不必每次都让两个人关起门来完成。**
+
+**⑧人群与烟花，我觉得尤其值得用到真正的节日里。**
+
+周围的人在喊，彩带落下来，莱昂本来仰头看得很高兴，忽然发现忒索林在看自己，于是也转过来。声音太大，谁说话都听不清，便只勾一下小指，再握住。
+
+这里最可爱的是，他们本来各自在享受同一场热闹，**看见好东西时，又很自然地想知道对方有没有看见。** 不用每次相望都立刻说情话，莱昂替他摘掉头发上的纸屑，忒索林指给他看下一束升起的光，就很够味。
+
+⑦共同家门的钥匙，则更适合留到他们真正有了自己的住处以后。前面已经一起长大、习惯出入同一个家，后来才有一把属于两个人共同生活的钥匙，这份变化会很实在：门可以由谁先回来谁开，灯可以由谁晚归谁留。朋友问有没有什么能证明关系的东西，两个人一开始可能都没想到，还是摸口袋的时候，钥匙碰在一起响了。
+
+**④⑪⑭⑰是他们偶尔会认真起来的那一面。**
+
+星空、最幸福的时候、秘密、感谢你来到世上——这些都可以有，而且不能因为他们平时爱拌嘴，就不许他们坦诚说喜欢。
+
+不过我很想保留两个人不同的坦诚方式。莱昂有时候会一路说过去，自己还没觉得多了不起，忒索林已经安静下来；忒索林则可能起初还在逗他，忽然很认真地接上一句，让莱昂后面准备好的话全忘掉。
+
+⑰尤其适合生日。莱昂可能庆幸很多很具体的事：忒索林来了白银城，住进这个家，那天愿意跟自己出去，后来又愿意留下。平常不会把这些逐件列出来，到了生日，却会觉得今天终于有一个由头，可以郑重地感谢他来到世上。忒索林起先还笑他怎么突然这么会讲话，听着听着，却可能先伸手把他抱住了。
+
+**⑥⑬⑮⑱⑳，又是喜欢到会看呆、会露馅的一组。**
+
+⑮撑着下巴看人，谁都适合。忒索林在忙，莱昂看；莱昂低头修自己的东西，忒索林也会看。外人认识的是能独当一面的莱昂，忒索林眼里还会多出一点：他专心时会皱鼻子，弄不明白便小声嘀咕，突然做好了又立刻抬头找自己。看着看着，当然会觉得可爱。
+
+⑥那种明明已经示意得很明显，对方却只顾着夸好看，特别适合关系确认后偶尔发生。两个人都不能固定成永远不开窍的那个；平日再会撩，也可能真被眼前的人弄得发怔，等对方忍不住催了，才意识到自己错过了什么。于是主动讨亲近的人，反倒先不好意思了。
+
+⑬我喜欢的也是那个“你不能拿借口把我说过的话抹掉”的认真劲。若放在往后的微醺场面里，莱昂说得坦诚，忒索林随口笑他喝多了，莱昂却会坚持把话说完整。他会胡闹，也会在真正重要的地方，希望自己的心意被认真接住。
+
+至于⑱，不必为了用梗给他们硬加很大的身高差。坐着与站着、台阶高低、一个俯身听另一个低声说话，都能自然拉近距离。你之前指出过“坐着的人还要让站着的人踮脚擦汗”的问题，这里就得真看清他们的位置，亲密才会顺。
+
+我最想用起来的，其实还有这批图共同的一点：**忒索林会宠莱昂，也会故意逗他；莱昂会黏着忒索林，也很享受自己终于把他逗得笑出来。** 他们知道对方在耍什么小心思，常常还是乐意配合——甚至配合完，还要装作是自己吃了亏。嘿嘿，这个才有两个人过日子的嚼劲呀。(≧▽≦)
+
+### 🧑 用户 · 2026-10-22T15:10:52.785Z
+
+真可爱吧！！！！你分析得好啊！！！！！看完后你觉得前几章有可以修改的地方吗？以及其实哥哥那边我是希望能用大白话说出来发生了什么事这样，但是文笔要好的感觉。。。，你不是说第九章先让人看见瑟娜怎样越来越坏，再追问谁仍把她算作康复、为什么继续推广吗，要写明白呀，虽然是要留白但是不是这里！！
+
+### 🤖 Codex · 2026-10-22T15:11:22.562Z
+
+有，宝宝，而且这批素材能直接补进前面的相处里。哥哥线你说得也对：病人出了什么事、莫为什么要查、眼下查到了什么，都得让读者读明白；幕后原因还没查清，才是可以留悬念的地方。我回看几处正文，具体说哪些值得改。
+
+### 🤖 Codex · 2026-10-22T15:12:45.579Z
+
+真可爱！！而且看完以后，我觉得前几章确实有能改得更好玩的地方，宝宝。**你给的素材里，两个人都在主动招惹对方，也都很享受被对方招惹；我之前却常写成莱昂靠过来，忒索林嫌弃两句，最后默许。** 写多了，当然会变成同一种甜。
+
+我刚回看了第三、七、九章，也对了一下第五、十章的相处，有几处特别适合动。
+
+**第三章，保留缝衣服和家里人的热闹，但让忒索林也主动留人。**
+
+如今是莱昂靠着，忒索林让他靠，随后叫他换衣服。这里可以有一个很小的变化：莱昂终于肯起身，忒索林却顺手拨开他额前的湿卷发；莱昂以为还有事，低着头等，忒索林看了一眼，只说“没什么”，手却还没放下。
+
+莱昂当然不会放过，可能立即问：“没什么，你怎么还摸？”
+
+这样一来，忒索林也有舍不得他走、想碰一碰他的时候。莱昂发现以后会得意，忒索林知道他得意，还偏偏不解释。费利克斯在旁边等了半天，最后忍不住提醒，自己那只断扣还摆在桌上呢——**旁人的事还在继续，两个人却偷偷分了一点注意力给彼此。** 这个就比再加一次擦汗有趣。
+
+**第五章，争执本身留着，和好以后可以更有他们的坏心眼。**
+
+忒索林说“你可以先陪我骂两句灯”，这句值得保留。莱昂可以真的转过去，郑重其事地数落灯，数落到忒索林自己都听不下去，伸手把他的脸转回来：“行了，你怎么还没完了？”
+
+莱昂趁机将脸往他手里压一下，说自己明明在听吩咐。
+
+但这一段要放在莱昂已经明白为什么不能擅自调整之后。两个人先把事情说清，再恢复胡闹，读者才能感觉到他们是真的重新亲近起来了。
+
+**第七章，我会改得更轻些，不往忒索林难过的时候硬塞逗笑。**
+
+这一章的心思都在哥哥身上，莱昂陪写信、帮他确认消息，本来就很适合。可以让忒索林写到一半，没抬头便去找莱昂的手；莱昂正在拢草稿，被碰到以后便翻过掌心，让他握，另一只手继续收纸。
+
+忒索林可能过了一会儿才意识到自己一直攥着，松开时，莱昂又拿那只手轻轻碰一下他的手背。
+
+这里的甜在于：**他顾着想哥哥，也很自然地知道莱昂就在身边，可以伸手找。** 不需要莱昂立刻吃醋，也不用每次都说一番安慰的话。
+
+**第十章，可以用“你看我，我也看你”，替换一些重复的关心。**
+
+如今已经写过好几次问手累不累、帮拿册子、整理衣领了。这回可以让忒索林测完以后，看见莱昂在同旁人说笑，忽然觉得他今天很招眼，便多看了一会儿；莱昂发现后走过来，问他刚才不是不许自己看吗，怎么现在轮到他看了。
+
+忒索林完全可以理直气壮：“测完了。”
+
+莱昂会笑，也会故意站着不走，让他继续看。这样忒索林喜欢莱昂的那一面就更明显了——他会被吸引，会欣赏，会主动盯着人看，绝不只有照顾和纵容。
+
+图片里的甜点、长凳挤人，都可以陆续放进真实生活；共同家门的钥匙、确认关系后的讨亲吻，则留到相应阶段。**不必每次新写日常都从零想，你已经给了他们很多很好的生活。**
+
+至于哥哥线，你最后这句话说得非常准确：**这里必须写明白，留白不该留在读者理解眼前事件必需的地方。**
+
+而且我回看第九章，又发现了一个比文风更实在的问题：
+
+**我把“仍需要治疗”和“没有康复”说得太接近了，甚至拿费利克斯停药来作区分。这个不符合咱们已经定好的设定。**
+
+我们明明说过，有些人需要长期服药，病变也可以稳定下来，重新生活。需要药物或者器具，本身不能证明治疗出了问题。
+
+瑟娜真正不对劲的是：
+
+- 她离院时能拿针，如今手又抬不起来，青灰也重新扩大。
+- 施护能缓解的时间越来越短，三日、两日，到这次只有半日。
+- 圣殿已经有人报告过类似变化，推广却没有停。
+- 韦尔收到反馈后，给出的办法仍是继续增加器具；这个办法有没有解决病情加重，尚未得到可靠证明。
+
+这四件事应该在正文里逐步落定。药费和救济，是这些决定给瑟娜造成的具体伤害，不能把它写成整章调查的主要目的。
+
+**还有一件必须接回来：莫为什么会如此重视？因为他亲手处理过罗恩。**
+
+罗恩也曾不疼了，也被认为好起来了，最后却死亡、转化、伤人。莫来白银城查的，始终是：**圣者究竟阻止了异化，还是只让异化暂时不再难受？**
+
+第九章不能谈着谈着，就让读者忘了这件事。比如马伦检查完，完全可以把话直接说出来：
+
+> “她肩背的病变又扩大了。昨天施护以后确实能抬手，可到今早，连衣服也拿不稳。”
+>
+> 莫伊伦看向桌上那张康复证明。
+>
+> 罗恩离开这里时，也曾让照护他的人这样高兴过。能睡，肯吃东西，不再喊疼，于是所有人都以为，他终于熬过了最坏的时候。
+>
+> “罗恩当时有没有这种变化？”他问。
+>
+> 马伦没有立即回答，伸手去取那份已经翻过许多遍的病历。这一次，他先找的，是每次施护以前的记录。
+
+这段传达的事情就很清楚：**眼前出现了与原镇事件值得对照的疑点，莫要确认它们是否有关。** 没有提前宣布圣者是魔女，也没有拿含糊当悬念。
+
+至于韦尔，莫接下来该问的也可以很直白：
+
+“病人回来得越来越勤，你们为什么还说，多用这些器具就能减少回院？凭什么判断的？换过器具的人，后来到底怎样了？”
+
+他不必把这些全讲成面面俱到的一串问话，但正文得给读者看见他正在追这个问题。幕后是谁、是否故意隐瞒，可以还不知道；**他为什么走到韦尔面前，读者必须知道。**
+
+你要的“大白话但文笔好”，我现在理解得更具体了：事情要说得直接，文字的味道长在瑟娜遮住歪扣眼的手、殿监认出自己签名时的停顿、米洛终于想起罗恩的那一刻。不能让读者先翻译一遍我那些规整的词，才有机会被故事打动。
+
 <!-- end:codex-01a12a90-c2ce-7b93-8451-d6f344853364 -->
+
 
 
 
