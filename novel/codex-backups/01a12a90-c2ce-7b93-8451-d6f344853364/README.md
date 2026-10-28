@@ -9,6 +9,7 @@
 | 文件 | 字节数 | SHA256 |
 | --- | ---: | --- |
 | [generated/GitHub阅读与接续确认.md](generated/GitHub%E9%98%85%E8%AF%BB%E4%B8%8E%E6%8E%A5%E7%BB%AD%E7%A1%AE%E8%AE%A4.md) | 9374 | `e7e86aec898d1cfdab5e496f31c447f938a72eee1cd8117a1d91de68766a777f` |
+| [generated/人物试写_别替我答应_莫伊伦与圣者_2026-10-28.md](generated/%E4%BA%BA%E7%89%A9%E8%AF%95%E5%86%99_%E5%88%AB%E6%9B%BF%E6%88%91%E7%AD%94%E5%BA%94_%E8%8E%AB%E4%BC%8A%E4%BC%A6%E4%B8%8E%E5%9C%A3%E8%80%85_2026-10-28.md) | 12135 | `9fedd5ea54664f87bc214c8277bbb254c225351ec49fd861cb8240adbc81425e` |
 | [generated/写作素材记录_骑士誓言与遗忘的痛苦.md](generated/%E5%86%99%E4%BD%9C%E7%B4%A0%E6%9D%90%E8%AE%B0%E5%BD%95_%E9%AA%91%E5%A3%AB%E8%AA%93%E8%A8%80%E4%B8%8E%E9%81%97%E5%BF%98%E7%9A%84%E7%97%9B%E8%8B%A6.md) | 6282 | `6fe52cb3520b1ff055535fc34f2923c5deb23911fd6f76b891e56aef20c20cb9` |
 | [generated/圣者能力与莫伊伦试验_讨论记录.md](generated/%E5%9C%A3%E8%80%85%E8%83%BD%E5%8A%9B%E4%B8%8E%E8%8E%AB%E4%BC%8A%E4%BC%A6%E8%AF%95%E9%AA%8C_%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95.md) | 10045 | `c392c3fe13546c996a3b715e3e9e1e2a02335455e781d718eb8cd67685b132de` |
 | [generated/独立恋爱番外_再亲一下.md](generated/%E7%8B%AC%E7%AB%8B%E6%81%8B%E7%88%B1%E7%95%AA%E5%A4%96_%E5%86%8D%E4%BA%B2%E4%B8%80%E4%B8%8B.md) | 9650 | `748220ad2512fb6263339d866003a7003253e0a2e46af513f10ea815fbcea78f` |
