@@ -1,0 +1,18 @@
+{
+  "updated": "2026-11-04",
+  "scope": ["I", "II", "III上", "III中", "III下", "II前传"],
+  "reading_order": ["II", "III上", "III中", "III下", "I", "II前传"],
+  "structural_inventory_done": true,
+  "authoritative_completeness_verified": false,
+  "completed_units": [
+    {"unit_id": "II-01", "start_line": 143, "end_line": 840, "start_P": 52, "end_P": 390, "status": "original_read_and_close_reading_recorded"},
+    {"unit_id": "II-02", "start_line": 841, "end_line": 1372, "start_P": 391, "end_P": 646, "status": "original_read_and_close_reading_recorded"}
+  ],
+  "continuous_read_range": {"book": "II", "start_line": 143, "end_line": 1372},
+  "read_nonempty_line_characters": 37183,
+  "other_volumes_status": "structure_scan_and_boundary_spot_checks_only",
+  "next": {"unit_id": "II-03", "start_line": 1373, "end_line": 2094},
+  "unresolved": ["III中 chapter six heading absent; missing content not established", "III下 duplicated chapter twelve headings; relationship of text not yet read", "No authoritative edition collation"],
+  "whole_work_read": false,
+  "cross_volume_conclusions_ready": false
+}

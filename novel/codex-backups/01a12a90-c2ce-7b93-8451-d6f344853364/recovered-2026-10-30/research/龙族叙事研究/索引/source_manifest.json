@@ -1,0 +1,80 @@
+[
+  {
+    "id": "I",
+    "filename": "龙族I·火之晨曦.txt",
+    "path": "C:\\Users\\ZhuanZ（无密码）\\OneDrive\\Desktop\\龙族旧版txt 共八册\\龙族I·火之晨曦.txt",
+    "bytes": 792077,
+    "sha256": "83e2be85dc537a78357c61a2a99e01a3b88a65a7a93d6103e16050707f990824",
+    "encoding": "utf-8-sig",
+    "characters_including_line_endings": 273684,
+    "lines": 10696,
+    "nonempty_lines": 5182,
+    "structural_units": 12,
+    "read_status": "see separate progress.json"
+  },
+  {
+    "id": "II",
+    "filename": "龙族II·悼亡者之瞳.txt",
+    "path": "C:\\Users\\ZhuanZ（无密码）\\OneDrive\\Desktop\\龙族旧版txt 共八册\\龙族II·悼亡者之瞳.txt",
+    "bytes": 1245308,
+    "sha256": "f649120ec7ab1be8b8ee51f20b9d44fde97b0ac0f11838407a7b149dfe104edc",
+    "encoding": "utf-8-sig",
+    "characters_including_line_endings": 428287,
+    "lines": 13444,
+    "nonempty_lines": 6556,
+    "structural_units": 22,
+    "read_status": "see separate progress.json"
+  },
+  {
+    "id": "III上",
+    "filename": "龙族III·黑月之潮(上).txt",
+    "path": "C:\\Users\\ZhuanZ（无密码）\\OneDrive\\Desktop\\龙族旧版txt 共八册\\龙族III·黑月之潮(上).txt",
+    "bytes": 498880,
+    "sha256": "047e47e07e4d363c2b261760be4de2c7ec22f074d0e89e8152da5e7afdbc0b12",
+    "encoding": "gb18030",
+    "characters_including_line_endings": 259086,
+    "lines": 7460,
+    "nonempty_lines": 3062,
+    "structural_units": 15,
+    "read_status": "see separate progress.json"
+  },
+  {
+    "id": "III中",
+    "filename": "龙族III·黑月之潮(中).txt",
+    "path": "C:\\Users\\ZhuanZ（无密码）\\OneDrive\\Desktop\\龙族旧版txt 共八册\\龙族III·黑月之潮(中).txt",
+    "bytes": 597226,
+    "sha256": "3b872182dacbb708a0ce5e1df25394c480d85d1edf907b6ab2f8664aed62f258",
+    "encoding": "utf-16",
+    "characters_including_line_endings": 298612,
+    "lines": 3856,
+    "nonempty_lines": 3589,
+    "structural_units": 10,
+    "read_status": "see separate progress.json"
+  },
+  {
+    "id": "III下",
+    "filename": "龙族III·黑月之潮(下).txt",
+    "path": "C:\\Users\\ZhuanZ（无密码）\\OneDrive\\Desktop\\龙族旧版txt 共八册\\龙族III·黑月之潮(下).txt",
+    "bytes": 899223,
+    "sha256": "36a72a6b626ddc02b4c73db53ae9593f20993222e2cadaffba6bf2df02fbdfe2",
+    "encoding": "gb18030",
+    "characters_including_line_endings": 467944,
+    "lines": 9553,
+    "nonempty_lines": 6031,
+    "structural_units": 23,
+    "read_status": "see separate progress.json"
+  },
+  {
+    "id": "II前传",
+    "filename": "龙族II前传·哀悼之翼.txt",
+    "path": "C:\\Users\\ZhuanZ（无密码）\\OneDrive\\Desktop\\龙族旧版txt 共八册\\龙族II前传·哀悼之翼.txt",
+    "bytes": 115234,
+    "sha256": "22639bfb176c1965baaa3b8469e2eb3f2da7a51d2cf4598b5b5eb2909922eb16",
+    "encoding": "gb18030",
+    "characters_including_line_endings": 59171,
+    "lines": 832,
+    "nonempty_lines": 818,
+    "structural_units": 9,
+    "read_status": "see separate progress.json"
+  }
+]
