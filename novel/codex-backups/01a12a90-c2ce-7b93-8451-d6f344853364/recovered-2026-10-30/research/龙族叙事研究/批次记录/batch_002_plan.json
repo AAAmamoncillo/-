@@ -1,0 +1,156 @@
+{
+  "target_units": [
+    "II-03",
+    "II-04",
+    "II-05",
+    "II-06",
+    "II-07",
+    "II-08",
+    "II-09",
+    "II-10",
+    "II-11",
+    "II-12"
+  ],
+  "chunks": [
+    {
+      "id": 1,
+      "start": 1373,
+      "end": 1672,
+      "characters_with_labels": 9970
+    },
+    {
+      "id": 2,
+      "start": 1673,
+      "end": 1972,
+      "characters_with_labels": 9995
+    },
+    {
+      "id": 3,
+      "start": 1973,
+      "end": 2284,
+      "characters_with_labels": 9974
+    },
+    {
+      "id": 4,
+      "start": 2285,
+      "end": 2574,
+      "characters_with_labels": 9918
+    },
+    {
+      "id": 5,
+      "start": 2575,
+      "end": 2884,
+      "characters_with_labels": 9977
+    },
+    {
+      "id": 6,
+      "start": 2885,
+      "end": 3138,
+      "characters_with_labels": 9981
+    },
+    {
+      "id": 7,
+      "start": 3139,
+      "end": 3404,
+      "characters_with_labels": 9939
+    },
+    {
+      "id": 8,
+      "start": 3405,
+      "end": 3650,
+      "characters_with_labels": 9802
+    },
+    {
+      "id": 9,
+      "start": 3651,
+      "end": 3902,
+      "characters_with_labels": 9975
+    },
+    {
+      "id": 10,
+      "start": 3903,
+      "end": 4196,
+      "characters_with_labels": 9986
+    },
+    {
+      "id": 11,
+      "start": 4197,
+      "end": 4492,
+      "characters_with_labels": 9981
+    },
+    {
+      "id": 12,
+      "start": 4493,
+      "end": 4780,
+      "characters_with_labels": 9967
+    },
+    {
+      "id": 13,
+      "start": 4781,
+      "end": 5082,
+      "characters_with_labels": 9982
+    },
+    {
+      "id": 14,
+      "start": 5083,
+      "end": 5380,
+      "characters_with_labels": 9999
+    },
+    {
+      "id": 15,
+      "start": 5381,
+      "end": 5672,
+      "characters_with_labels": 9887
+    },
+    {
+      "id": 16,
+      "start": 5673,
+      "end": 5914,
+      "characters_with_labels": 9860
+    },
+    {
+      "id": 17,
+      "start": 5915,
+      "end": 6166,
+      "characters_with_labels": 9982
+    },
+    {
+      "id": 18,
+      "start": 6167,
+      "end": 6450,
+      "characters_with_labels": 9901
+    },
+    {
+      "id": 19,
+      "start": 6451,
+      "end": 6734,
+      "characters_with_labels": 9821
+    },
+    {
+      "id": 20,
+      "start": 6735,
+      "end": 6990,
+      "characters_with_labels": 9891
+    },
+    {
+      "id": 21,
+      "start": 6991,
+      "end": 7292,
+      "characters_with_labels": 9956
+    },
+    {
+      "id": 22,
+      "start": 7293,
+      "end": 7562,
+      "characters_with_labels": 9995
+    },
+    {
+      "id": 23,
+      "start": 7563,
+      "end": 7728,
+      "characters_with_labels": 6096
+    }
+  ],
+  "target_characters": 196809,
+  "phase": "level_1_original_reading"
+}
